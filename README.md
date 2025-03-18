@@ -51,7 +51,18 @@
 которые вы сможете применить в реальной жизни.
 
 #### Список доступных курсов:
-* **[Yet Another Apache Kafka Course](https://github.com/tayviscon-io/yet-another-apache-kafka-course)** - курс по работе с Apache Kafka от [Tayviscon IO](https://github.com/tayviscon-io);
+* **[Yet Another Java Course](https://github.com/tayviscon-io/yet-another-java-course)** - курс по языку программирования Java, затрагивающий основы Computer Science;
+* **[Yet Another SQL Course](https://github.com/tayviscon-io/yet-another-sql-course)** - курс по языку запросов к СУБД (на основе PostgreSQL);
+* **[Yet Another JDBC Course](https://github.com/tayviscon-io/yet-another-jdbc-course)** - курс по основам работы с СУБД из Java-приложений;
+* **[Yet Another HTTP.Servlets Course](https://github.com/tayviscon-io/yet-another-http-servlets-course)** - курс по основам WEB и протокола HTTP;
+* **[Yet Another Apache Maven Course](https://github.com/tayviscon-io/yet-another-apache-maven-course)** - курс по инструменту для автоматизации сборки проектов;
+* **[Yet Another JUnit 5 Course](https://github.com/tayviscon-io/yet-another-junit-5-course)** - курс по Java-фреймворку тестирования приложения;
+* **[Yet Another Gradle Course](https://github.com/tayviscon-io/yet-another-gradle-course)** - курс по самому мощному инструменту для работы с автоматизированной сборкой проектов;
+* **[Yet Another Hibernate Course](https://github.com/tayviscon-io/yet-another-hibernate-course)** - курс по популярному ORM-фреймворку в Java-приложениях;
+* **[Yet Another Spring Course](https://github.com/tayviscon-io/yet-another-spring-course)** - курс по Spting-фреймворку;
+* **[Yet Another Bash Course](https://github.com/tayviscon-io/yet-another-bash-course)** - курс по командной оболочке Bash;
+* **[Yet Another Docker Course](https://github.com/tayviscon-io/yet-another-docker-course)** - курс по Docker;
+* **[Yet Another Apache Kafka Course](https://github.com/tayviscon-io/yet-another-apache-kafka-course)** - курс по работе с Apache Kafka;
 
 > [!TIP]
 > Мы постоянно обновляем курсы, добавляем новые и совершенствуем старые.
