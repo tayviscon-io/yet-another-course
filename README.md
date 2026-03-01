@@ -63,6 +63,7 @@
 * **[Yet Another Bash Course](https://github.com/tayviscon-io/yet-another-bash-course)** - курс по командной оболочке Bash;
 * **[Yet Another Docker Course](https://github.com/tayviscon-io/yet-another-docker-course)** - курс по Docker;
 * **[Yet Another Apache Kafka Course](https://github.com/tayviscon-io/yet-another-apache-kafka-course)** - курс по работе с Apache Kafka;
+* **[Yet Another Pattern Course](https://github.com/tayviscon-io/yet-another-pattern-course)** - курс по Паттернам Проектирования;
 
 > [!TIP]
 > Мы постоянно обновляем курсы, добавляем новые и совершенствуем старые.
