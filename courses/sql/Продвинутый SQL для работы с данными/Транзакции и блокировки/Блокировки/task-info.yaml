@@ -1,0 +1,14 @@
+type: theory
+files:
+  - name: task.md
+    visible: true
+  - name: order-placing-algorithm.svg
+    visible: false
+  - name: order-parallel-delivering-case.svg
+    visible: false
+  - name: blocking-process-explanation-step-1.svg
+    visible: false
+  - name: blocking-process-explanation-step-2.svg
+    visible: false
+  - name: blocking-process-explanation-step-3.svg
+    visible: false

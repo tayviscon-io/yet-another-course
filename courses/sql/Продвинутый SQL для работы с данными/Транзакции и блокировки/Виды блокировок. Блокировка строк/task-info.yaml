@@ -1,0 +1,5 @@
+type: theory
+custom_name: "Виды блокировок: Блокировка строк"
+files:
+  - name: task.md
+    visible: true
