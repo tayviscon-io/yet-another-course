@@ -1,0 +1,15 @@
+type: marketplace
+title: Yet Another Pattern Course
+language: Russian
+summary: Курс посвящен изучению паттернов проектирования.
+programming_language: Java
+content:
+  - Введение
+  - Принципы проектирования
+  - Каталог паттернов
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+  - name: gradle/wrapper/gradle-wrapper.properties
+  - name: common/image/yet-another-pattern-course.svg
+yaml_version: 5

@@ -1,0 +1,18 @@
+type: theory
+files:
+  - name: task.md
+    visible: true
+  - name: class-order-uml-before-open-close-principle-refactoring.svg
+    visible: false
+  - name: class-order-uml-after-open-close-principle-refactoring.svg
+    visible: false
+  - name: src/refactoring/after/Air.java
+    visible: true
+  - name: src/refactoring/after/Order.java
+    visible: true
+  - name: src/refactoring/after/Ground.java
+    visible: true
+  - name: src/refactoring/after/Shipping.java
+    visible: true
+  - name: src/refactoring/before/Order.java
+    visible: true

@@ -1,0 +1,9 @@
+type: theory
+custom_name: "Инкапсулируйте то, что меняется"
+files:
+  - name: task.md
+    visible: true
+  - name: order-class-uml-diagram-before-get-tax-rate-encapsulation.svg
+    visible: false
+  - name: order-class-uml-diagram-after-get-tax-rate-encapsulation.svg
+    visible: false

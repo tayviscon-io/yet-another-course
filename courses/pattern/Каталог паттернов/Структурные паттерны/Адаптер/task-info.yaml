@@ -1,0 +1,8 @@
+type: theory
+files:
+  - name: task.md
+    visible: true
+  - name: object-adapter-uml-diagramm.svg
+    visible: false
+  - name: class-adapter-uml-diagramm.svg
+    visible: false

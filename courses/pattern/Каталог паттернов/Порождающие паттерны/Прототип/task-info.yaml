@@ -1,0 +1,8 @@
+type: theory
+files:
+  - name: task.md
+    visible: true
+  - name: prototype-pattern-uml-diagramm.svg
+    visible: false
+  - name: common-protorype-repository-pattern-uml-diagramm.svg
+    visible: false

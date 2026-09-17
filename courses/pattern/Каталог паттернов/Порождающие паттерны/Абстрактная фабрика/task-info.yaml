@@ -1,0 +1,6 @@
+type: theory
+files:
+  - name: task.md
+    visible: true
+  - name: abstract-factory-pattern-uml-diagramm.svg
+    visible: false

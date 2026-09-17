@@ -1,0 +1,10 @@
+type: theory
+files:
+  - name: task.md
+    visible: true
+  - name: memento-pattern-simple-realisation-uml-diagram.svg
+    visible: false
+  - name: memento-pattern-empty-interface-realisation-uml-diagram.svg
+    visible: false
+  - name: memento-pattern-with-additional-security-realisation-uml-diagram.svg
+    visible: false
