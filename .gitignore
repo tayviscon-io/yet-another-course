@@ -1,0 +1,14 @@
+**/lesson-remote-info.yaml
+**/section-remote-info.yaml
+**/task-remote-info.yaml
+
+.gradle/
+build/
+out/
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+.study-yac/
