@@ -50,20 +50,22 @@
 Мы стремимся обеспечить вам не только теоретическую базу, но и практические знаний,
 которые вы сможете применить в реальной жизни.
 
+Каждый курс — отдельный проект JetBrains Academy. В IntelliJ открывайте папку `courses/<имя>/`, не корень репозитория.
+
 #### Список доступных курсов:
-* **[Yet Another Java Course](https://github.com/tayviscon-io/yet-another-java-course)** - курс по языку программирования Java, затрагивающий основы Computer Science;
-* **[Yet Another SQL Course](https://github.com/tayviscon-io/yet-another-sql-course)** - курс по языку запросов к СУБД (на основе PostgreSQL);
-* **[Yet Another JDBC Course](https://github.com/tayviscon-io/yet-another-jdbc-course)** - курс по основам работы с СУБД из Java-приложений;
-* **[Yet Another HTTP.Servlets Course](https://github.com/tayviscon-io/yet-another-http-servlets-course)** - курс по основам WEB и протокола HTTP;
-* **[Yet Another Apache Maven Course](https://github.com/tayviscon-io/yet-another-apache-maven-course)** - курс по инструменту для автоматизации сборки проектов;
-* **[Yet Another JUnit 5 Course](https://github.com/tayviscon-io/yet-another-junit-5-course)** - курс по Java-фреймворку тестирования приложения;
-* **[Yet Another Gradle Course](https://github.com/tayviscon-io/yet-another-gradle-course)** - курс по самому мощному инструменту для работы с автоматизированной сборкой проектов;
-* **[Yet Another Hibernate Course](https://github.com/tayviscon-io/yet-another-hibernate-course)** - курс по популярному ORM-фреймворку в Java-приложениях;
-* **[Yet Another Spring Course](https://github.com/tayviscon-io/yet-another-spring-course)** - курс по Spting-фреймворку;
-* **[Yet Another Bash Course](https://github.com/tayviscon-io/yet-another-bash-course)** - курс по командной оболочке Bash;
-* **[Yet Another Docker Course](https://github.com/tayviscon-io/yet-another-docker-course)** - курс по Docker;
-* **[Yet Another Apache Kafka Course](https://github.com/tayviscon-io/yet-another-apache-kafka-course)** - курс по работе с Apache Kafka;
-* **[Yet Another Pattern Course](https://github.com/tayviscon-io/yet-another-pattern-course)** - курс по Паттернам Проектирования;
+* **[Yet Another Java Course](courses/java/)** - курс по языку программирования Java, затрагивающий основы Computer Science;
+* **[Yet Another SQL Course](courses/sql/)** - курс по языку запросов к СУБД (на основе PostgreSQL);
+* **[Yet Another JDBC Course](courses/jdbc/)** - курс по основам работы с СУБД из Java-приложений;
+* **[Yet Another HTTP.Servlets Course](courses/http-servlets/)** - курс по основам WEB и протокола HTTP;
+* **[Yet Another Apache Maven Course](courses/apache-maven/)** - курс по инструменту для автоматизации сборки проектов;
+* **[Yet Another JUnit 5 Course](courses/junit-5/)** - курс по Java-фреймворку тестирования приложения;
+* **[Yet Another Gradle Course](courses/gradle/)** - курс по самому мощному инструменту для работы с автоматизированной сборкой проектов;
+* **[Yet Another Hibernate Course](courses/hibernate/)** - курс по популярному ORM-фреймворку в Java-приложениях;
+* **[Yet Another Spring Course](courses/spring/)** - курс по Spting-фреймворку;
+* **[Yet Another Bash Course](courses/bash/)** - курс по командной оболочке Bash;
+* **[Yet Another Docker Course](courses/docker/)** - курс по Docker;
+* **[Yet Another Apache Kafka Course](courses/apache-kafka/)** - курс по работе с Apache Kafka;
+* **[Yet Another Pattern Course](courses/pattern/)** - курс по Паттернам Проектирования;
 
 > [!TIP]
 > Мы постоянно обновляем курсы, добавляем новые и совершенствуем старые.

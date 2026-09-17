@@ -10,9 +10,9 @@
 
 ## Автор и Контрибьюторы
 Данный курс развивается силами сообщества [Tayviscon IO](https://github.com/tayviscon-io).
-Большое спасибо [всем](https://github.com/tayviscon-io/yet-another-apache-kafka-course/graphs/contributors),
+Большое спасибо [всем](https://github.com/tayviscon-io/yet-another-course/graphs/contributors),
 кто помогает развивать данный проект.
 
-<a href="https://github.com/tayviscon-io/yet-another-apache-kafka-course/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tayviscon-io/yet-another-apache-kafka-course" />
+<a href="https://github.com/tayviscon-io/yet-another-course/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tayviscon-io/yet-another-course" />
 </a>
