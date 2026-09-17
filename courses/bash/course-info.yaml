@@ -1,0 +1,8 @@
+type: marketplace
+title: Yet Another Bash Course
+language: Russian
+summary: "Yet Another Bash Course - это курс от компании Tayviscon IO из серии «Yet Another Course»: курс по командной оболочке Bash."
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5

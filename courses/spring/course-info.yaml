@@ -1,0 +1,8 @@
+type: marketplace
+title: Yet Another Spring Course
+language: Russian
+summary: "Yet Another Spring Course - это курс от компании Tayviscon IO из серии «Yet Another Course»: курс по Spting-фреймворку."
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5

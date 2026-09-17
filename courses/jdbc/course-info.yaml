@@ -1,0 +1,8 @@
+type: marketplace
+title: Yet Another JDBC Course
+language: Russian
+summary: "Yet Another JDBC Course - это курс от компании Tayviscon IO из серии «Yet Another Course»: курс по основам работы с СУБД из Java-приложений."
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5

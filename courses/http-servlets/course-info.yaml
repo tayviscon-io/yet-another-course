@@ -1,0 +1,8 @@
+type: marketplace
+title: Yet Another HTTP.Servlets Course
+language: Russian
+summary: "Yet Another HTTP.Servlets Course - это курс от компании Tayviscon IO из серии «Yet Another Course»: курс по основам WEB и протокола HTTP."
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5

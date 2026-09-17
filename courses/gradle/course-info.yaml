@@ -1,0 +1,8 @@
+type: marketplace
+title: Yet Another Gradle Course
+language: Russian
+summary: "Yet Another Gradle Course - это курс от компании Tayviscon IO из серии «Yet Another Course»: курс по самому мощному инструменту для работы с автоматизированной сборкой проектов."
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5

@@ -1,0 +1,8 @@
+type: marketplace
+title: Yet Another Apache Maven Course
+language: Russian
+summary: "Yet Another Apache Maven Course - это курс от компании Tayviscon IO из серии «Yet Another Course»: курс по инструменту для автоматизации сборки проектов."
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5

@@ -1,0 +1,8 @@
+type: marketplace
+title: Yet Another Java Course
+language: Russian
+summary: "Yet Another Java Course - это курс от компании Tayviscon IO из серии «Yet Another Course»: курс по языку программирования Java, затрагивающий основы Computer Science."
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5

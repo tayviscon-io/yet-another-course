@@ -1,0 +1,8 @@
+type: marketplace
+title: Yet Another Hibernate Course
+language: Russian
+summary: "Yet Another Hibernate Course - это курс от компании Tayviscon IO из серии «Yet Another Course»: курс по популярному ORM-фреймворку в Java-приложениях."
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5
