@@ -1,0 +1,5 @@
+type: theory
+custom_name: "Блокировка строк: Запросы"
+files:
+  - name: task.md
+    visible: true
