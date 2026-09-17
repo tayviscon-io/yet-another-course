@@ -1,0 +1,7 @@
+type: marketplace
+title: Demo Course
+language: Russian
+programming_language: Java
+content:
+  - Введение
+yaml_version: 5

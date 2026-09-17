@@ -1,0 +1,6 @@
+series: yet-another-course
+courses:
+  - id: demo
+    title: Demo Course
+    path: courses/demo
+    status: stub
