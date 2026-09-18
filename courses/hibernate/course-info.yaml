@@ -5,4 +5,6 @@ summary: "Yet Another Hibernate Course - это курс от компании T
 programming_language: Java
 content:
   - Введение
+additional_files:
+  - name: common/image/yet-another-hibernate-course-logo.png
 yaml_version: 5

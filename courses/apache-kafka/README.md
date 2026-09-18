@@ -1,4 +1,4 @@
-<p align="center"><img width=70% src="./common/image/apache-kafka-logo.svg"></p>
+<p align="center"><img width=70% src="./common/image/yet-another-apache-kafka-course-logo.png"></p>
 
 # Курс по Apache Kafka от [Tayviscon IO](https://github.com/tayviscon-io)
 [![Official Project](https://img.shields.io/badge/Tayviscon_IO-official-%2363B175)](https://github.com/tayviscon-io/.github/blob/main/profile/README.md#tayviscon-io-github)

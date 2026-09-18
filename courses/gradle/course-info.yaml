@@ -5,4 +5,6 @@ summary: "Yet Another Gradle Course - это курс от компании Tayv
 programming_language: Java
 content:
   - Введение
+additional_files:
+  - name: common/image/yet-another-gradle-course-logo.png
 yaml_version: 5

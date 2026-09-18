@@ -8,4 +8,6 @@ content:
 additional_files:
   - name: build.gradle
   - name: settings.gradle
+  - name: README.md
+  - name: common/image/yet-another-docker-course-logo.png
 yaml_version: 2

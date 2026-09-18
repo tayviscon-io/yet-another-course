@@ -5,4 +5,6 @@ summary: "Yet Another JDBC Course - это курс от компании Tayvis
 programming_language: Java
 content:
   - Введение
+additional_files:
+  - name: common/image/yet-another-jdbc-course-logo.png
 yaml_version: 5
