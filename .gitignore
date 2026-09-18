@@ -12,3 +12,5 @@ out/
 *.ipr
 
 .study-yac/
+
+docs/superpowers/
