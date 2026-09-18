@@ -3,52 +3,52 @@ courses:
   - id: java
     title: Yet Another Java Course
     path: courses/java
-    status: stub
+    status: in_progress
   - id: sql
     title: Yet Another SQL Course
     path: courses/sql
-    status: content
+    status: published
   - id: jdbc
     title: Yet Another JDBC Course
     path: courses/jdbc
-    status: stub
+    status: in_progress
   - id: http-servlets
     title: Yet Another HTTP.Servlets Course
     path: courses/http-servlets
-    status: stub
+    status: in_progress
   - id: apache-maven
     title: Yet Another Apache Maven Course
     path: courses/apache-maven
-    status: stub
+    status: in_progress
   - id: junit-5
     title: Yet Another JUnit 5 Course
     path: courses/junit-5
-    status: stub
+    status: in_progress
   - id: gradle
     title: Yet Another Gradle Course
     path: courses/gradle
-    status: stub
+    status: in_progress
   - id: hibernate
     title: Yet Another Hibernate Course
     path: courses/hibernate
-    status: stub
+    status: in_progress
   - id: spring
     title: Yet Another Spring Course
     path: courses/spring
-    status: stub
+    status: in_progress
   - id: bash
     title: Yet Another Bash Course
     path: courses/bash
-    status: stub
+    status: in_progress
   - id: docker
     title: Yet Another Docker Course
     path: courses/docker
-    status: content
+    status: published
   - id: apache-kafka
     title: Yet Another Apache Kafka Course
     path: courses/apache-kafka
-    status: content
+    status: published
   - id: pattern
     title: Yet Another Pattern Course
     path: courses/pattern
-    status: content
+    status: published
